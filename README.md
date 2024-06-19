@@ -6,7 +6,7 @@ This project is a real-time gesture recognition system to recognize hand gesture
 
 <i> Note: This project is only tested on Windows using Python 3.11 </i>
 
-- Install LoopMIDI from [Tobias Erichsen](https://www.tobias-erichsen.de/software/loopmidi.html) and create a virtual MIDI port. Recommended to use the default name "LoopMIDI Port 1" or change the port name in the main.py.
+- Install [LoopMIDI from Tobias Erichsen](https://www.tobias-erichsen.de/software/loopmidi.html) and create a virtual MIDI port. Recommended to use the default name "LoopMIDI Port 1" or change the port name in the main.py.
 
 - Install some MIDI software or VST plugin to test the MIDI signals. You can use simple one like [Virtual MIDI Piano Keyboard](https://vmpk.sourceforge.io/).
 
