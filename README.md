@@ -48,4 +48,4 @@ The system will then start detecting index finger and thumb gestures. The gestur
 - Index finger bent : modulate pitch
 
 #### Note:
-<i> The system i still in development (and always) and may not work as expected. </i>
+<i> The system is still in development (and always) and may not work as expected. </i>
